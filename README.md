@@ -1,6 +1,3 @@
-My name is sina pazoki
-===============================
-
 Web Designer & Developer
 -----------------------------
 
