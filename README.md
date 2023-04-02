@@ -1,7 +1,7 @@
 Web Designer & Developer
 -----------------------------
 
-*   🚀  I'm currently working on [ariatech](https://ariatech.online)
+*   🚀  I'm currently working on 
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
                   
